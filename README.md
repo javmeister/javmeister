@@ -1,5 +1,5 @@
-<h2> Hi, I'm Javier! </h2>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<h2> Hey there 👋, I'm Javier! </h2> 
+
 <p><em>Software Engineer | Dad | Making Web3 games for FUN</em></p>
 
 [![Twitter: Javier Lerones](https://img.shields.io/twitter/follow/JavierLerones?style=social)](https://twitter.com/JavierLerones)
