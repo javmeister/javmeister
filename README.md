@@ -17,7 +17,7 @@ const javmeister = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   sideProject: {
     name: "Velorum Games",
-    description: "A Web3 space-themed browser game made in Unity, with more than one hundred thousand solar systems to explore.",
+    description: "A Web3 space-themed browser game made in Unity, more than one hundred thousand solar systems to explore.",
     where: "https://velorum.games"
   },
 }
