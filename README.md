@@ -11,13 +11,13 @@
 
 ```javascript
 const javmeister = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Solana, Web3],
-  tools: [Angular, NgRx, Node, Storybook, Web Components, Jest, Cypress, Docker, Kubernetes],
+  pronouns: ["he", "his"],
+  coding: [Javascript, Typescript, HTML, CSS, Solana, Web3],
+  tools: [Angular, NgRx, Node, Storybook, Web Components, Jest, Cypress, Docker, Kubernetes, Unity, ThreeJS, BabylonJS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   sideProject: {
     name: "Velorum Games",
-    description: "A Web3 space-themed browser game with more than one hundred thousand solar systems to explore.",
+    description: "A Web3 space-themed browser game made in Unity, with more than one hundred thousand solar systems to explore.",
     where: "https://velorum.games"
   },
 }
