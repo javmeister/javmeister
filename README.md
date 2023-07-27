@@ -1,4 +1,4 @@
-## Hey there 👋, I'm Javier!
+# Hey there 👋, I'm Javier!
 
 Software Engineer | Dad | Making Web3 games for FUN
 
@@ -23,7 +23,7 @@ const javmeister = {
 }
 ```
 
-<em><b>Interested in web development + Web3 games?, stop by and say hi!</b> :)</em>
+Interested in web development + Web3 games? stop by and say hi! :)
 
 ### Projects
 
