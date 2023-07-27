@@ -1,6 +1,6 @@
-<h2> Hey there 👋, I'm Javier! </h2> 
+## Hey there 👋, I'm Javier!
 
-<p><em>Software Engineer | Dad | Making Web3 games for FUN</em></p>
+Software Engineer | Dad | Making Web3 games for FUN
 
 [![Twitter: Javier Lerones](https://img.shields.io/twitter/follow/JavierLerones?style=social)](https://twitter.com/JavierLerones)
 [![Linkedin: Javier Lerones](https://img.shields.io/badge/-javierleronesgallego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javierleronesgallego/)](https://www.linkedin.com/in/javierleronesgallego/)
@@ -24,3 +24,9 @@ const javmeister = {
 ```
 
 <em><b>Interested in web development + Web3 games?, stop by and say hi!</b> :)</em>
+
+### Projects
+
+- My personal blog: https://blog.javierlerones.dev/
+- Singularity MECO Event https://velorum.games
+
