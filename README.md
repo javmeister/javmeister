@@ -25,13 +25,13 @@ const javmeister = {
 
 Interested in web development + Web3 games? stop by and say hi! :)
 
-### My Blogs
+### 📖 My Blogs
 
 Come check out my personal blog at https://blog.javierlerones.dev/
 
 We also published a lot of content related to Singularity and AI-generated gaming content on our separate blog: https://quasar.blog
 
-### Singularity / Velorum
+### 🚀 Singularity / Velorum
 
 This one requires its own section. Over the past year or so I've been working on that Web3 game I mention in my bio snipped above. The game itself is made with Unity, however, an early version was entirely created in TypeScript with Three.js. 
 
