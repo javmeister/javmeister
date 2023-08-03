@@ -31,6 +31,13 @@ Come check out my personal blog at https://blog.javierlerones.dev/
 
 We also published a lot of content related to Singularity and AI-generated gaming content on our separate blog: https://quasar.blog
 
+### 🎁 Challenges
+
+I've compiled some applications/assessments/challenges, you know what I mean, that I've worked on recently. They are all open source and I will leave them out here just in case it can be of any help to anybody.
+
+* Landgate. Live: https://landgate.javierlerones.dev Source: https://github.com/javmeister/landgate-ui-test
+* Grow. Live: https://grow.javierlerones.dev Source: https://github.com/javmeister/grow
+
 ### 🚀 Singularity / Velorum
 
 This one requires its own section. Over the past year or so I've been working on that Web3 game I mention in my bio snipped above. The game itself is made with Unity, however, an early version was entirely created in TypeScript with Three.js. 
