@@ -40,7 +40,7 @@ I've compiled some applications/assessments/challenges, you know what I mean, th
 
 ### 🚀 Singularity / Velorum
 
-This one requires its own section. Over the past year or so I've been working on that Web3 game I mention in my bio snipped above. The game itself is made with Unity, however, an early version was entirely created in TypeScript with Three.js. 
+This one requires its own section. Over the past year or so I've been working on that Web3 game I mention in my bio above. The game itself is made with Unity, however, an early version was entirely created in TypeScript with Three.js. 
 
 I've decided to open source the code for that version of the game, you can find it as a public repository here: https://github.com/javmeister/galaxy. And since it is a static HTML SPA made with Angular, I've pushed a live build to https://galaxy.javierlerones.dev 
 
